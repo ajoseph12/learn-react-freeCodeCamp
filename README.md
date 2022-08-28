@@ -5,7 +5,7 @@ by [Bob Ziroll](https://www.linkedin.com/in/bobziroll/) made available on
 Free Code Camp's  YouTube channel.
 
 
-## Completed Modules so far 2/4
+## Modules Completed
 
 - [ ] Build a react info site
 - [ ] Build an AirBnb experience clone
