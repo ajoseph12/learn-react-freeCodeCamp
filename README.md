@@ -1,8 +1,8 @@
 # Introduction
 
-This repos documents my learnings from the [React Course][https://www.youtube.com/watch?v=bMknfKXIFA8&t=6097s]
-by [Bob Ziroll[[https://www.linkedin.com/in/bobziroll/] made available on
-[Free Code Camp's]  YouTube channel.
+This repos documents my learnings from the [React Course](https://www.youtube.com/watch?v=bMknfKXIFA8&t=6097s)
+by [Bob Ziroll](https://www.linkedin.com/in/bobziroll/) made available on
+Free Code Camp's  YouTube channel.
 
 
 ## Completed Modules so far 2/4
